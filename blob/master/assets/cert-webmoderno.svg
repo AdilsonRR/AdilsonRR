@@ -1,0 +1,20 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fbbf24"/>
+      <stop offset="100%" style="stop-color:#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="80" rx="12" fill="url(#bg3)"/>
+  <rect x="0" y="0" width="200" height="3" rx="2" fill="url(#accent3)"/>
+  <!-- Code brackets icon -->
+  <text x="16" y="48" font-family="monospace" font-size="26" fill="#fbbf24" font-weight="bold">&lt;/&gt;</text>
+  <!-- Text -->
+  <text x="58" y="32" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#94a3b8" letter-spacing="1">CERTIFICAÇÃO</text>
+  <text x="58" y="48" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="bold" fill="#f1f5f9">Web Moderno</text>
+  <text x="58" y="62" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#fbbf24">JavaScript · TypeScript</text>
+</svg>
