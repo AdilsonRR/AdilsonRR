@@ -59,13 +59,13 @@ Foco atual em transformar dados em conversão através de **Machine Learning (Ve
 
 <div align="center">
 
-<img src="./assets/cert-posgrad.svg" alt="Pós-Graduação Fullstack Web" />
+<img src="blob/master/assets/cert-posgrad.svg" alt="Pós-Graduação Fullstack Web" />
 &nbsp;&nbsp;
-<img src="./assets/cert-gcp.svg" alt="Google Cloud Platform" />
+<img src="blob/master/assets/cert-gcp.svg" alt="Google Cloud Platform" />
 &nbsp;&nbsp;
-<img src="./assets/cert-react-native.svg" alt="React Native Advanced" />
+<img src="blob/master/assets/cert-gcp.svg" alt="React Native Advanced" />
 &nbsp;&nbsp;
-<img src="./assets/cert-webmoderno.svg" alt="Web Moderno JS/TS" />
+<img src="blob/master/assets/cert-webmoderno.svg" alt="Web Moderno JS/TS" />
 
 </div>
 
