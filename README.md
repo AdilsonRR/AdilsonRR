@@ -99,8 +99,8 @@ Foco atual em transformar dados em conversão através de **Machine Learning (Ve
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdilsonRR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonRR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AdilsonRR&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakLabel=94a3b8)
 
 </div>
 
